@@ -42,7 +42,7 @@
     "webpack-cli": "3.3.0"
   },
   "dependencies": {
-    "@canonical/global-nav": "2.0.5",
+    "@canonical/global-nav": "2.3.0",
     "cookie-policy": "1.1.0",
     "vanilla-framework": "2.3.0"
   },
